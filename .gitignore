@@ -1,0 +1,21 @@
+# Generated files
+package/generated*
+
+# Installed npm modules
+node_modules/
+
+# Build tool output
+.nyc_output/
+coverage/
+
+# API Docs
+api-docs/
+
+# Eleventy output when doing manual tests
+_site/
+
+package-lock.json
+
+# Test files
+.cache
+test/stubs-layout-cache/_includes/*.js
