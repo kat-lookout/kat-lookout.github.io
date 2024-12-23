@@ -4,11 +4,11 @@
     padding: var(--space-7) var(--container-padding-sides);
     margin: var(--space-6) auto 8rem auto;
   }
-  .footer a {
+  .footer-links a {
     text-decoration: none;
     color: unset;
   }
-  .footer a:hover {
+  .footer-links a:hover {
     color: var(--color-primary);
     transition: color 0.2s ease-in-out;
   }
@@ -25,6 +25,14 @@
     color: var(--color-primary);
     font-size: var(--font-size-lg);
   }
+
+  .attrib {
+      margin-top: var(--space-4);
+  }
+
+  .attrib p {
+      font-size: var(--font-size-xs);
+  }
 </style>
 
 <footer class="footer">
@@ -35,4 +43,7 @@
       <li><a href="/rss">RSS</a></li>
     </ul>
   </nav>
+  <div class="attrib">
+      <p>Site generated with <a href="https://www.11ty.dev">11ty</a> and hosted via <a href="https://pages.github.com">GitHub Pages</a></p>
+  </div>
 </footer>
