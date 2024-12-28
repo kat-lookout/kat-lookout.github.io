@@ -34,7 +34,7 @@
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
     <content xml:lang="{{ site.language }}" type="html">
-      {{ post.templateContent }}
+      {{ post.data.description }}
     </content>
   </entry>
   {%- endfor %}
