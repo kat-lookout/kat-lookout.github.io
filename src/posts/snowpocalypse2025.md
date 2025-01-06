@@ -1,6 +1,7 @@
 ---
 title: Snowpocalypse 2025
 description: Welcome to the first major winter storm of 2025.
+date: "2025-01-06T09:10:00.00-05:00"
 tags:
   - weather
 ---

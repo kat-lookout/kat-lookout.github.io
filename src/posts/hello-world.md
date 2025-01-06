@@ -1,6 +1,7 @@
 ---
 title: Hello, World!
 description: Hello, and welcome to the corner of the internet where I write all of the words.
+date: "2024-12-19T00:00:00.00-05:00"
 tags:
   - hello
   - indieweb

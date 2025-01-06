@@ -1,6 +1,7 @@
 ---
 title: Christmas Gifts
 description: I made socks for my family for Christmas
+date: "2024-12-27T00:00:00.00-05:00"
 tags:
   - finished-object
   - knitting
