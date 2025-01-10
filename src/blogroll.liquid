@@ -1,0 +1,99 @@
+---
+layout: layouts/default.liquid
+---
+<header class="post-header">
+  <h1 class="post-title">Blogroll</h1>
+</header>
+
+<section post-container>
+    <ul>
+        <li>Authors</li>
+        <ul>
+            <li><a href="https://maryrobinettekowal.com">Mary Robinette Kowal</a></li>
+            <li><a href="https://www.michaelmammay.com">Michael Mammay</a></li>
+            <li><a href="https://whatever.scalzi.com/">Whatever</a></li>
+        </ul>
+        <li>Comics</li>
+        <ul>
+            <li><a href="http://www.dorktower.com">Dork Tower</a></li>
+            <li><a href="https://effinbirds.com">Effin' Birds</a></li>
+            <li><a href="https://www.questionablecontent.net">Questionable Content</a></li>
+            <li><a href="https://xkcd.com">XKCD</a></li>
+        </ul>
+        <li>Science Fiction / Fantasy</li>
+        <ul>
+            <li><a href="https://clarkesworldmagazine.com">Clarkesworld Magazine</a></li>
+            <li><a href="https://www.lightspeedmagazine.com">Lightspeed Magazine</a></li>
+            <li><a href="https://www.uncannymagazine.com">Uncanny Magazine</a></li>
+        </ul>
+        <li>Space and Science</li>
+        <ul>
+            <li><a href="https://apod.nasa.gov/apod/astropix.html">Astronomy Picture of the Day</a></li>
+            <li><a href="https://skyandtelescope.org">Sky and Telescope</a></li>
+        </ul>
+        <li>Other Humans</li>
+        <ul>
+            <li><a href="https://whitknits.wordpress.com">whit::knits</a></li>
+            <li><a href="https://www.zinzy.website">Zinzy</a></li>
+        </ul>
+    </ul>
+</section>
+
+<style>
+   img {
+    border-radius: 50%;
+    margin-bottom: var(--space-5);
+    width: 300px;
+   }
+   p {
+       padding-top: var(--space-3);
+   }
+   ul {
+       padding-left: var(--space-5);
+   }
+  .post-header {
+    margin-bottom: var(--space-5);
+  }
+  .post-title {
+    font-weight: normal;
+  }
+  .post-container {
+    padding-bottom: var(--space-8);
+    border-bottom: 1px solid var(--color-text-shade);
+  }
+  :root {
+    --prism-foreground: #393a34;
+    --prism-background: transparent;
+
+    --prism-comment: #758575;
+    --prism-namespace: #444444;
+    --prism-string: #bc8671;
+    --prism-punctuation: #80817d;
+    --prism-literal: #36acaa;
+    --prism-keyword: #248459;
+    --prism-function: #849145;
+    --prism-deleted: #9a050f;
+    --prism-class: #2b91af;
+    --prism-builtin: #800000;
+    --prism-property: #ce9178;
+    --prism-regex: #ad502b;
+  }
+
+  [data-theme="dark"] {
+    --prism-foreground: #d4d4d4;
+
+    --prism-namespace: #aaaaaa;
+    --prism-comment: #758575;
+    --prism-namespace: #444444;
+    --prism-string: #ce9178;
+    --prism-punctuation: #d4d4d4;
+    --prism-literal: #36acaa;
+    --prism-keyword: #38a776;
+    --prism-function: #dcdcaa;
+    --prism-deleted: #9a050f;
+    --prism-class: #4ec9b0;
+    --prism-builtin: #d16969;
+    --prism-property: #ce9178;
+    --prism-regex: #ad502b;
+  }
+</style>
