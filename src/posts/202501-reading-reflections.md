@@ -14,15 +14,15 @@ I do see the connection, in that *Heart of Darkness* provides a candid view into
 late nineteenth century, while *Generation Ship* also explores themes of colonialism in the far future.
 
 
-I hadn't heard of [https://www.michaelmammay.com](Michael Mammay) before now. *Generation Ship* tells its
+I hadn't heard of [Michael Mammay](https://www.michaelmammay.com) before now. *Generation Ship* tells its
 story from several different perspectives, some of which I'm very familiar with, others that are very
 different from my way of thinking. At first it was a little to real, in the sense that as I was reading 
-I would thing "Yep, I've had that conversation before". As I continued to read, though, I was both caught
+I would think "Yep, I've had that conversation before". As I continued to read, though, I was both caught
 up in the journey and fascinated by perspectives I had never really considered before.
 
 After reading Michael's background and learning that he's an Army veteran, I was particularly impressed
 that the military didn't play a bigger role in *Generation Ship* than it did. I've enjoyed military science
-fiction in the past, so I decided to read his [https://app.thestorygraph.com/series/23949](Planetside)
+fiction in the past, so I decided to read his [Planetside](https://app.thestorygraph.com/series/23949)
 series next. I'm currently on the third book and enjoying the series so far. The main character, Carl Butler,
 is an interesting and complicated person. I particularly appreciate his awareness of his own faults,
 even if he (like most of us) tends to forget or downplay his strengths.
@@ -30,9 +30,9 @@ even if he (like most of us) tends to forget or downplay his strengths.
 I'm still chugging through the audiobook version of *The Shadow Rising* by Robert Jordan. This is probably
 the third time I've taken a stab at *The Wheel of Time* series. I do enjoy fantasy, if not as much as science
 fiction. I struggle with how complex the world-building can be; I've tended to lose interested when reading
-in book form, so I'm attempting it in audiobook form this time. 
+in book form, so I'm attempting it in audiobook form this time.
 
-I was spoiled by [https://en.wikipedia.org/wiki/Rosamund_Pike](Rosamund Pike)'s narration of the first three books.
+I was spoiled by [Rosamund Pike](https://en.wikipedia.org/wiki/Rosamund_Pike)'s narration of the first three books.
 I couldn't get my hands on the fourth book narrated by her, while the narrators of *The Shadow Rising* are quite 
 good, Rosamund does excel at bringing th characters to life. I may have to take a break from the series and wait for
 her narration of future books if they aren't available yet. That said, I do find it interesting that that the
