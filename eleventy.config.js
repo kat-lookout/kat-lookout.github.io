@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   // For example, `./public/css/` ends up in `_site/css/`
   eleventyConfig.addPassthroughCopy({
     "./public/": "/",
+    "src/robots.txt" : "/robots.txt",
   });
 
   eleventyConfig.addPlugin(codeStyleHooks, {
